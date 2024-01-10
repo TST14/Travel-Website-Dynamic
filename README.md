@@ -1,7 +1,7 @@
 # Travel-Website-Dynamic
 This is a travel website aimed at travellers looking for a multitude of adventures in different cities.
 
-https://frontend-8jxuaql56-tanmay-singh-thakurs-projects.vercel.app/
+https://frontend-teal-six-77.vercel.app/
 
 
 Throughout the development of this project:
